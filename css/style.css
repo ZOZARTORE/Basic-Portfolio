@@ -1,0 +1,93 @@
+
+h1{
+	text-align: center;
+	font-size: 50px;
+	font-weight: 700;
+	color: #fff;
+	max-width: 30%;
+}
+h2{
+	font-size: 35px;
+	font-weight: 700;
+
+}
+body{
+	background: #C4B382; 
+}
+ul{
+	padding: 15px;
+	text-align: center;
+	max-width: 100px;
+	background: #283CBF;
+	margin-left: 20px;
+	float: left;
+}
+li{
+	font-size: 25px;
+}
+a{
+	color: #28BF60;
+}
+p{
+	font-size: 20px;
+	letter-spacing: 1px;
+	line-height: 25px;
+}
+.headding{
+	position: absolute;
+	margin-left: 150px;
+	padding-left: 50px;
+	padding-right: 75px;
+	padding-bottom: 50px;
+	margin-top: 40px;
+	background: #8293C4;
+	float: left;
+    height: 70px;
+    width: 150px;
+}
+.linklist{
+	font-size: 20px;
+	display: inline-block;
+	float: left;
+	text-align: right;
+	background: #808080;
+	width: 100%;
+    height: 160px;
+    color: #e5e4dc;
+}
+.links{
+	padding-top: 30px;
+	padding-right: 30px;
+}
+.content-main{
+	font-size: 20px;
+	float: left;
+	padding: 20px;
+	margin-top: 20px;
+	padding-left: 50px;
+	padding-right: 50px;
+	margin-left: 100px;
+	width: 800px;
+	background: #fff;
+}
+.connectbox{
+	float: left;
+	border: 1;
+	margin-top: 20px;
+	padding: 20px;
+	margin-left: 100px;
+	margin-right: 100px;
+	background: #fff;
+}
+.footer{
+	clear: both;
+	background: #808080;
+	padding-top: 35px;
+	height: 75px;
+	text-align: center;
+}
+#headshot{
+	float: left;
+	width: 250px;
+	height: 350px;
+}
