@@ -14,6 +14,17 @@ h2{
 	color: #4aaaa5;
 
 }
+h3{
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	text-align: center;
+	font-size: 25px;
+	font-weight: 500;
+	color: #fff;
+	background: #4aaaa5;
+	width: 250px;
+	height: 50px;
+	padding-top: 10px;
+}
 body{
 	background: #C4B382; 
 }
@@ -105,4 +116,65 @@ p{
 	float: left;
 	width: 250px;
 	height: 350px;
+}
+.portfolioimg{
+	position: absolute;
+	height: 250px;
+	width: 250px;
+}
+.portfoliomain{
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: #777777;
+	font-size: 20px;
+	float: left;
+	padding: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding-left: 50px;
+	padding-right: 50px;
+	margin-left: 100px;
+	width: 800px;
+	background: #ffffff;
+	min-height: 750px;
+	border: solid;
+	border-color: #dddddd;
+}
+#img-1{
+	top: 145px;
+}
+#img-2{
+	top: 145px;
+	left: 600px;
+}
+#img-3{
+	top: 400px;
+}
+#img-4{
+	top: 400px;
+	left: 600px;
+}
+#img-5{
+	top: 655px;
+}
+#pic-1-title{
+	position: absolute;
+	top:300px;
+}
+#pic-2-title{
+	position: absolute;
+	left: 600px;
+	top:300px;
+}
+#pic-3-title{
+	position: absolute;
+	top:560px;
+}
+#pic-4-title{
+	position: absolute;
+	left: 600px;
+	top:560px;
+}
+#pic-5-title{
+	position: absolute;
+	top:820px;
 }
